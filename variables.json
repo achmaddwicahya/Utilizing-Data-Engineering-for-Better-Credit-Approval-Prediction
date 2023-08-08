@@ -1,0 +1,6 @@
+{
+    "BASE_PATH": "/opt/airflow",
+    "BUCKET_NAME": "fraud-mitigation",
+    "DATASET_ID": "fraud_mitigation",
+    "GOOGLE_CLOUD_CONN_ID": "fraud-mitigation"
+}
